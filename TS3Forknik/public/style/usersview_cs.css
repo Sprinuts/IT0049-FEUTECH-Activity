@@ -1,0 +1,17 @@
+h3 {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.adjust{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.adjustBtn{
+    margin-bottom: 20px;
+}
